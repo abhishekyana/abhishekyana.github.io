@@ -1,6 +1,5 @@
 ---
-theme: jekyll-theme-cayman
-layout: post
+layout: default
 title: First Page Zeronn
 ---
 <html>
