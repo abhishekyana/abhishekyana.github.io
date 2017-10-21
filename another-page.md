@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Another Page
+title: "Another Page"
 ---
 
 ## Welcome to another page
