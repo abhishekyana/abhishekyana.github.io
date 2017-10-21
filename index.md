@@ -5,6 +5,7 @@ layout: default
 Text can abhishek be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
+[Link to Post Test](http://zeronn.com/2017/10/21/first-page)
 
 There should be whitespace between paragraphs.
 
