@@ -1,9 +1,11 @@
 ---
+theme: jekyll-theme-cayman
 layout: post
 title: First Page Zeronn
 ---
 <html>
 <head>
+    <meta charset="utf-8">
     <title>{{page.title}}</title>
 </head>
 <body>
