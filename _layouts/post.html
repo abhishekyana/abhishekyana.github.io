@@ -11,6 +11,9 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
+    <section class="page-header">
+      <h3 class="project-name">{{ site.title | default: site.github.repository_name }}</h3>
+    </section>
 
     <section class="main-content">
       {{ content }}
