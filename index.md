@@ -20,7 +20,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### [](#header-3)Header 3
+### []Header 3
 
 ```js
 // Javascript code with syntax highlighting.
@@ -56,7 +56,7 @@ import tensorflow as tf
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### [hey](#header-6)Header 6
+###### [](#header-6)Header 6
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
