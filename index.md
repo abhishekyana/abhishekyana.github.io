@@ -37,6 +37,13 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
+```python
+#This is code in python for testing
+import numpy as np
+import tensorflow as tf
+#testing Tensorflow
+```
+
 #### [](#header-4)Header 4
 
 *   This is an unordered list following a header.
