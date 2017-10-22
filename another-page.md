@@ -2,10 +2,12 @@
 layout: post
 title: "Another Page"
 ---
+<html>
 <head>
     <title>Page of Zeronn</title>
 </head>
-## Welcome to another page
+</html>
+## Welcome to another page of mine
 
 _yayyyy_
 
