@@ -3,9 +3,11 @@ layout: post
 title: "Another Page"
 ---
 <html>
-<head>
-    <title>Page of Zeronn</title>
-</head>
+<body>
+<section class="page-header">
+      <h3 class="project-name">{{ site.title | default: site.github.repository_name }}</h3>
+    </section>
+<body
 </html>
 ## Welcome to another page of mine
 
