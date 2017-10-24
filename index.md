@@ -11,7 +11,7 @@ layout: default
   1. [Back Propagation Algorithm](uc)
   1. [Different Optimization Algorithms.](uc)
 
-
+<br/>
 * ### Different Neural Network Architectures for supervised learning.
 
   1. [Feed-Forward Neural Network (FNN)](uc)
