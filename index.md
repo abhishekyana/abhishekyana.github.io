@@ -1,5 +1,6 @@
 ---
 layout: default
+title: HomePage
 ---
 ## All Posts:
 * ### Machine Learning and Deep Learning basics:
