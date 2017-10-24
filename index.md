@@ -26,4 +26,5 @@ layout: default
   1. [Variational Auto Encoders](uc)
   1. [Generative Adversarial Networks (GANs)](uc)
 
+* * *
 Posted on 24/OCT/2017
