@@ -8,7 +8,7 @@ title: Zeronn AI
 
 <p class="meta">24 Oct 2017 - India</p>
 
-Machine learning is a field of computer science that gives computers the ability to learn without being explicitly programmed.[1][2][verify]
+**Machine learning** is a field of computer science that gives computers the ability to learn without being explicitly programmed.[1][2][verify]
 
 Arthur Samuel, an American pioneer in the field of computer gaming and artificial intelligence, coined the term "Machine Learning" in 1959 while at IBM[3]. Evolved from the study of pattern recognition and computational learning theory in artificial intelligence,[4] machine learning explores the study and construction of algorithms that can learn from and make predictions on data[5] – such algorithms overcome following strictly static program instructions by making data-driven predictions or decisions,[6]:2 through building a model from sample inputs. Machine learning is employed in a range of computing tasks where designing and programming explicit algorithms with good performance is difficult or infeasible; example applications include email filtering, detection of network intruders or malicious insiders working towards a data breach,[7] optical character recognition (OCR),[8] learning to rank, and computer vision.
 
