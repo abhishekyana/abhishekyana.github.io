@@ -25,7 +25,7 @@ Within the field of data analytics, machine learning is a method used to devise 
 
 # Another Style
 <div class="container">
-<iframe src="https://www.youtube.com/embed/fOnE-aQUs4I"
+<iframe width="100%" src="https://www.youtube.com/embed/fOnE-aQUs4I"
 frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 
