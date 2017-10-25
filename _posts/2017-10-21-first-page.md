@@ -12,6 +12,18 @@ title: Zeronn AI
 
 Arthur Samuel, an American pioneer in the field of computer gaming and artificial intelligence, coined the term "Machine Learning" in 1959 while at IBM. Evolved from the study of pattern recognition and computational learning theory in artificial intelligence, machine learning explores the study and construction of algorithms that can learn from and make predictions on data – such algorithms overcome following strictly static program instructions by making data-driven predictions or decisions,:2 through building a model from sample inputs. Machine learning is employed in a range of computing tasks where designing and programming explicit algorithms with good performance is difficult or infeasible; example applications include email filtering, detection of network intruders or malicious insiders working towards a data breach, optical character recognition (OCR), learning to rank, and computer vision.
 
+# Code
+```python
+import numpy as np
+import matplotlib.pyplot as plt
+
+#defining a class for our neural network
+class NN(object):
+    def __init__(self,name):
+        pass
+model=NN(name='Network')
+```
+
 # Test Code
 
 <iframe src="https://trinket.io/embed/python3/fe13259507?runOption=run" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
