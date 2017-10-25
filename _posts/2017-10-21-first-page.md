@@ -23,4 +23,10 @@ Within the field of data analytics, machine learning is a method used to devise 
 # Video
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/fOnE-aQUs4I" frameborder="0" allowfullscreen></iframe>
 
+# Another Style
+<div class="container">
+<iframe src="https://www.youtube.com/embed/fOnE-aQUs4I"
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+
 According to the Gartner hype cycle of 2016, machine learning is at its peak of inflated expectations. Effective machine learning is difficult because finding patterns is hard and often not enough training data is available; as a result, machine-learning programs often fail to deliver.
