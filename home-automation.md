@@ -18,7 +18,7 @@ Yes, Using your own voice to control your home.
     import serial
     import os,sys
     ```
-    #### Speech-Recognition module is for making Speech to Text which we'll use for controlling the appliances.
-    #### serial is to communicate with the Arduino which we'll configure later.
-    #### OS is to control the bash commands. (Text to speech for Jarvis :P)
+* Speech-Recognition module is for making Speech to Text which we'll use for controlling the appliances.
+* serial is to communicate with the Arduino which we'll configure later.
+* OS is to control the bash commands. (Text to speech for Jarvis :P)
 1. Initialize the speech module and make it with the Source.
