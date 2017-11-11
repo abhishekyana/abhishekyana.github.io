@@ -33,4 +33,5 @@ title: HomePage
 
 * * *
 [Test Post](http://zeronn.com/2017/10/21/first-page)
+[My Course Page](http://zeronn.com/courses)
 Posted on 24/OCT/2017
