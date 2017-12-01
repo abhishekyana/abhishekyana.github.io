@@ -35,10 +35,6 @@ Coursera Stanford by Andrew Ng: [Coursera ](https://www.coursera.org/learn/machi
 [Computer Age Statistical Inference PDF] (Algorithms, Evidence, and Data Science: https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf)
 
 
-## Deep Learning:
-
-In another article: https://www.linkedin.com/pulse/materials-neural-networks-i-found-useful-shujian-liu/
-
 ### Comparions of different ML algos:
 
 1. [L1 and L2 regularization] (https://www.quora.com/What-is-the-difference-between-L1-and-L2-regularization-How-does-it-solve-the-problem-of-overfitting-Which-regularizer-to-use-and-when)
@@ -62,6 +58,36 @@ In another article: https://www.linkedin.com/pulse/materials-neural-networks-i-f
 1. [Recurrent Neural Network vs. Convolutional Neural Network](https://datascience.stackexchange.com/questions/11619/rnn-vs-cnn-at-a-high-level)
 
 1. [Word2vec vs. GloVe (Natural Language Processing)] (https://www.quora.com/How-is-GloVe-different-from-word2vec)
+
+## Deep Learning:
+
+In another article: https://www.linkedin.com/pulse/materials-neural-networks-i-found-useful-shujian-liu/
+
+### LSTMs - Long Short Term Memory
+#### Theory:
+
+[Christopher Olah's Blog] (http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+
+[Brandon Rohrer's Video] (https://www.youtube.com/watch?v=WCUNPb-5EYI)
+
+[The Deep Learning Book RNN chapter 10] (http://www.deeplearningbook.org/contents/rnn.html)
+
+[Sequence Modeling: Recurrent and Recursive Nets presented by Ian Goodfellow] (https://www.youtube.com/watch?v=ZVN14xYm7JA)
+
+[Vanilla LSTM with Numpy] (http://blog.varunajayasiri.com/numpy_lstm.html)
+
+[Hinton's lecture from Neural Netwroks for Machine Learning] (https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
+
+#### Applications:
+[Gist by Andrej Karpathy](https://gist.github.com/karpathy/d4dee566867f8291f086)
+
+[Sequence Classification with LSTM with Keras] (https://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/)
+
+[Text Generation With LSTM with Keras] (https://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/)
+
+[Time Series Prediction with LSTM with Keras] (https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
+
+[More Keras examples] (https://github.com/fchollet/keras/tree/master/examples)
 
 ## Natural Language Processing Courses
 
@@ -120,6 +146,7 @@ In another article: https://www.linkedin.com/pulse/materials-neural-networks-i-f
 [Textblob Text processor](https://textblob.readthedocs.io/en/dev/)
 
 [spaCy NLP](https://spacy.io)
+
 
 
 [Very Usefull Links for Computer Science] (https://github.com/Developer-Y/cs-video-courses/blob/master/README.md#machine-learning)
