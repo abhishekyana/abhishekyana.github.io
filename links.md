@@ -37,7 +37,7 @@ Coursera Stanford by Andrew Ng:
 [Computer Age Statistical Inference PDF](Algorithms, Evidence, and Data Science: https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf)
 
 
-### Comparions of different ML algos:
+### Comparions of different ML algorithms:
 
 1. [L1 and L2 regularization](https://www.quora.com/What-is-the-difference-between-L1-and-L2-regularization-How-does-it-solve-the-problem-of-overfitting-Which-regularizer-to-use-and-when)
 
