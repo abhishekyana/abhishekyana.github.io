@@ -63,7 +63,8 @@ Coursera Stanford by Andrew Ng:
 
 ## Deep Learning:
 
-In another article: https://www.linkedin.com/pulse/materials-neural-networks-i-found-useful-shujian-liu/
+Some Deep Learing Courses
+1. hey hey
 
 ### LSTMs - Long Short Term Memory:
 #### Theory:
