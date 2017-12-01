@@ -53,9 +53,9 @@ Coursera Stanford by Andrew Ng:
 
 1. [Gradient Boosting Tree vs Random Forest](https://stats.stackexchange.com/questions/173390/gradient-boosting-tree-vs-random-forest)
 
-1. [K-means and hierarchical clustering](https://www.quora.com/What-is-the-difference-between-k-means-and-hierarchical-clustering)
+1. [K-means and Hierarchical clustering](https://www.quora.com/What-is-the-difference-between-k-means-and-hierarchical-clustering)
 
-1. [Generative vs. discriminative models](https://stats.stackexchange.com/questions/12421/generative-vs-discriminative)
+1. [Generative vs. Discriminative models](https://stats.stackexchange.com/questions/12421/generative-vs-discriminative)
 
 1. [Recurrent Neural Network vs. Convolutional Neural Network](https://datascience.stackexchange.com/questions/11619/rnn-vs-cnn-at-a-high-level)
 
