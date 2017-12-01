@@ -47,7 +47,7 @@ Coursera Stanford by Andrew Ng:
 
 1. [Support Vector Machine , dual vs primal](https://www.quora.com/Why-is-solving-in-the-dual-easier-than-solving-in-the-primal-What-advantages-do-we-get-from-solving-in-the-dual)
 
-1.[Linear Discriminant Analysis vs. Naive Bayes](https://www.quora.com/Classification-machine-learning-What-are-the-main-differences-between-the-LDA-Linear-Discriminant-Analysis-and-Naive-Bayes-classifiers)
+1. [Linear Discriminant Analysis vs. Naive Bayes](https://www.quora.com/Classification-machine-learning-What-are-the-main-differences-between-the-LDA-Linear-Discriminant-Analysis-and-Naive-Bayes-classifiers)
 
 1. [Linear Discriminant Analysis vs. Pincipal Component Analysis](https://www.quora.com/What-is-the-difference-between-LDA-and-PCA-for-dimension-reduction)
 
