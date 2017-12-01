@@ -63,4 +63,63 @@ In another article: https://www.linkedin.com/pulse/materials-neural-networks-i-f
 
 1. [Word2vec vs. GloVe (Natural Language Processing)] (https://www.quora.com/How-is-GloVe-different-from-word2vec)
 
+## Natural Language Processing Courses
+
+### Stanford - Basic NLP course on Coursera:
+
+[Videos] (https://www.youtube.com/playlist?list=PL6397E4B26D00A269&disable_polymer=true)
+[Slides] (https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html)
+
+
+### Stanford - CS224n Natural Language Processing with Deep Learning:
+
+[Course Page] (http://web.stanford.edu/class/cs224n/)
+
+[Videos] (https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
+
+
+### CMU - Neural Network for NLP 2017:
+
+[Course Page] (http://www.phontron.com/class/nn4nlp2017/schedule.html)
+[Youtube Link] (https://www.youtube.com/playlist?list=PL8PYTP1V4I8ABXzdqtOpB_eqBlVAz_xPT)
+
+
+### University of Oxford and DeepMind - Deep Learning for Natural Language Processing 2016-2017:
+
+[Course Page] (http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/)
+
+[Github page for video links and slides] (https://github.com/oxford-cs-deepnlp-2017/lectures)
+
+
+### Sequence Models by Andrew Ng on Coursera:
+
+[Course Page (will start mid dec.) ](https://www.coursera.org/learn/nlp-sequence-models)
+
+
+
+### Books:
+
+[Stanford : Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)
+
+[Stanford : An Introduction to Information Retrieval] (https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf)
+
+[The Deep Learning Book](www.deeplearningbook.org)
+
+[A Primer on Neural Network Models for Natural Language Processing: Draft](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
+
+
+
+### Libraries and Packages:
+
+[NLTK- Natural Language ToolKit](http://www.nltk.org/)
+
+[Stanford coreNLP software written in Java](https://nlp.stanford.edu/software/)
+
+[Gensim](https://radimrehurek.com/gensim/)
+
+[Textblob Text processor](https://textblob.readthedocs.io/en/dev/)
+
+[spaCy NLP](https://spacy.io)
+
+
 [Very Usefull Links for Computer Science] (https://github.com/Developer-Y/cs-video-courses/blob/master/README.md#machine-learning)
