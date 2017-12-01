@@ -4,22 +4,24 @@ title : Important Links For Machine Learning
 ---
 ## Videos:
 
-Coursera Stanford by Andrew Ng: [Coursera ](https://www.coursera.org/learn/machine-learning) [YouTube ](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+Coursera Stanford by Andrew Ng:
+[Coursera] (https://www.coursera.org/learn/machine-learning)
+[YouTube ] (https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 
 ### Stanford 229:
 
-[Youtube](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
-[Stanford](http://cs229.stanford.edu/syllabus.html)
+[Youtube] (https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
+[Stanford] (http://cs229.stanford.edu/syllabus.html)
 
 
 ### Stanford Statistical Learning
 
-[Stanford](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
+[Stanford] (https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
 
 
 ### Machine Learning Foundations
 
-[Coursera](https://www.coursera.org/learn/ntumlone-mathematicalfoundations)
+[Coursera] (https://www.coursera.org/learn/ntumlone-mathematicalfoundations)
 [Youtube](https://www.youtube.com/playlist?list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf&disable_polymer=true)
 
 
@@ -39,11 +41,11 @@ Coursera Stanford by Andrew Ng: [Coursera ](https://www.coursera.org/learn/machi
 
 1. [L1 and L2 regularization] (https://www.quora.com/What-is-the-difference-between-L1-and-L2-regularization-How-does-it-solve-the-problem-of-overfitting-Which-regularizer-to-use-and-when)
 
-1. [Logistic Regression vs Naive Bayes](https://www.quora.com/What-is-the-difference-between-logistic-regression-and-Naive-Bayes)
+1. [Logistic Regression vs Naive Bayes] (https://www.quora.com/What-is-the-difference-between-logistic-regression-and-Naive-Bayes)
 
-1. [Logistic Regrassion vs Support Vector Machines] https://stats.stackexchange.com/questions/95340/comparing-svm-and-logistic-regression
+1. [Logistic Regrassion vs Support Vector Machines] (https://stats.stackexchange.com/questions/95340/comparing-svm-and-logistic-regression)
 
-1. [Support Vector Machine , dual vs primal](https://www.quora.com/Why-is-solving-in-the-dual-easier-than-solving-in-the-primal-What-advantages-do-we-get-from-solving-in-the-dual)
+1. [Support Vector Machine , dual vs primal] (https://www.quora.com/Why-is-solving-in-the-dual-easier-than-solving-in-the-primal-What-advantages-do-we-get-from-solving-in-the-dual)
 
 1.[Linear Discriminant Analysis vs. Naive Bayes] (https://www.quora.com/Classification-machine-learning-What-are-the-main-differences-between-the-LDA-Linear-Discriminant-Analysis-and-Naive-Bayes-classifiers)
 
