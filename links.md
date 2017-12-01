@@ -61,11 +61,8 @@ Coursera Stanford by Andrew Ng:
 
 1. [Word2vec vs. GloVe (Natural Language Processing)](https://www.quora.com/How-is-GloVe-different-from-word2vec)
 
-## Deep Learning:
-
-Some Deep Learing Courses
-1. hey hey
-
+## Deep Learning Steps (One Step at a time):
+[Python](https://www.udemy.com/complete-python-bootcamp/) -> [Deeplearning.ai](https://www.coursera.org/specializations/deep-learning?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bq7mMgYx%2FQfW1YjxMmfeunA%3D%3D) -> [Keras(optional)](https://keras.io/#getting-started-30-seconds-to-keras) -> [Kaggle](https://www.kaggle.com) -> [Tensorflow CS20I](https://www.youtube.com/playlist?list=PLQ0sVbIj3URf94DQtGPJV629ctn2c1zN-&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bq7mMgYx%2FQfW1YjxMmfeunA%3D%3D) -> [Keras(optional)](https://keras.io/#getting-started-30-seconds-to-keras) -> [Kaggle](https://www.kaggle.com)
 ### LSTMs - Long Short Term Memory:
 #### Theory:
 
