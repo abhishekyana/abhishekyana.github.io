@@ -2,16 +2,15 @@
 layout : post
 title : Important Links For Machine Learning
 ---
-### Videos:
+## Videos:
 
-Coursera Stanford by Andrew Ng:
+Coursera Stanford by Andrew Ng: [link1](https://www.coursera.org/learn/machine-learning) [link2](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 
-[https://www.coursera.org/learn/machine-learning]
-[https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN]
-Stanford 229:
+###Stanford 229:
 
 https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599
 http://cs229.stanford.edu/syllabus.html
+
 Stanford Statistical Learning
 
 https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about
@@ -32,14 +31,14 @@ CMU 701 by Tom Mitchell
 http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml
 
 
-### Textbooks:
+## Textbooks:
 
 Introduction to Statistical Learning: http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf
 The Elements of Statistical Learning: https://web.stanford.edu/~hastie/Papers/ESLII.pdf
 Computer Age Statistical Inference: Algorithms, Evidence, and Data Science: https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf
 
 
-### Deep Learning:
+## Deep Learning:
 
 In another article: https://www.linkedin.com/pulse/materials-neural-networks-i-found-useful-shujian-liu/
 
