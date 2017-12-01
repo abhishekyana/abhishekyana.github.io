@@ -34,7 +34,7 @@ Coursera Stanford by Andrew Ng:
 ## Textbooks:
 1. [Introduction to Statistical Learning PDF](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf)
 1. [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
-1. [Computer Age Statistical Inference PDF Algorithms, Evidence, and Data Science](https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf)
+1. [Computer Age Statistical Inference](https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf)
 
 
 ### Comparions of different ML algorithms:
