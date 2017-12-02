@@ -44,7 +44,7 @@ title : Important Links For Machine Learning
 
 1. [L1 and L2 regularization](https://www.quora.com/What-is-the-difference-between-L1-and-L2-regularization-How-does-it-solve-the-problem-of-overfitting-Which-regularizer-to-use-and-when)
 1. [Logistic Regression vs Naive Bayes](https://www.quora.com/What-is-the-difference-between-logistic-regression-and-Naive-Bayes)
-1. [Logistic Regrassion vs Support Vector Machines](https://stats.stackexchange.com/questions/95340/comparing-svm-and-logistic-regression)
+1. [Logistic Regression vs Support Vector Machines](https://stats.stackexchange.com/questions/95340/comparing-svm-and-logistic-regression)
 1. [Support Vector Machine , dual vs primal](https://www.quora.com/Why-is-solving-in-the-dual-easier-than-solving-in-the-primal-What-advantages-do-we-get-from-solving-in-the-dual)
 1. [Linear Discriminant Analysis vs. Naive Bayes](https://www.quora.com/Classification-machine-learning-What-are-the-main-differences-between-the-LDA-Linear-Discriminant-Analysis-and-Naive-Bayes-classifiers)
 1. [Linear Discriminant Analysis vs. Pincipal Component Analysis](https://www.quora.com/What-is-the-difference-between-LDA-and-PCA-for-dimension-reduction)
