@@ -3,7 +3,7 @@ layout : post
 title : Important Links For Machine Learning
 :target='_blank'
 ---
-# Artificial Intelligence + Machine Learning + Deep Learning Links
+# AI | ML | DL Links
 
 ## Coursera Stanford by Andrew Ng:
 1. [Machine Learning Coursera Course](https://www.coursera.org/learn/machine-learning)
