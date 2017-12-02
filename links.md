@@ -3,31 +3,31 @@ layout : post
 title : Important Links For Machine Learning
 :target='_blank'
 ---
-## Videos:
+# Artificial Intelligence + Machine Learning + Deep Learning Links
 
-### Coursera Stanford by Andrew Ng:
+## Coursera Stanford by Andrew Ng:
 
 1. [Machine Learning Coursera Course](https://www.coursera.org/learn/machine-learning)
 1. [Machine Learning YouTube Playlist](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 
-### Stanford 229:
+## Stanford 229:
 
 1. [CS229 Course Youtube Playlist](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
 1. [CS229 Stanford Course Page](http://cs229.stanford.edu/syllabus.html)
 
 
-### Stanford Statistical Learning
+## Stanford Statistical Learning
 
 1. [Statiscal Learning Stanford](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
 
 
-### Machine Learning Foundations
+## Machine Learning Foundations
 
 1. [A friendly Introduction to Machine Learning](https://www.youtube.com/watch?v=IpGxLWOIZy4&t=322s)
 1. [Intro to Machine Learning Udacity](https://www.youtube.com/watch?v=ICKBWIkfeJ8&list=PLAwxTw4SYaPkQXg8TkVdIvYv4HfLG7SiH)
 
 
-### Machine Learning Techniques:
+## Machine Learning Techniques:
 
 1. [Choosing the right ML algo](https://www.youtube.com/watch?v=x996pw1geGw)
 1. [CMU 701 by Tom Mitchell](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
@@ -40,7 +40,7 @@ title : Important Links For Machine Learning
 1. [Computer Age Statistical Inference](https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf)
 
 
-### Comparions of different ML algorithms:
+## Comparions of different ML algorithms:
 
 1. [L1 and L2 regularization](https://www.quora.com/What-is-the-difference-between-L1-and-L2-regularization-How-does-it-solve-the-problem-of-overfitting-Which-regularizer-to-use-and-when)
 1. [Logistic Regression vs Naive Bayes](https://www.quora.com/What-is-the-difference-between-logistic-regression-and-Naive-Bayes)
@@ -58,7 +58,7 @@ title : Important Links For Machine Learning
 
 [Python](https://www.udemy.com/complete-python-bootcamp/) -> [Deeplearning.ai](https://www.coursera.org/specializations/deep-learning?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bq7mMgYx%2FQfW1YjxMmfeunA%3D%3D) -> [Keras(optional)](https://keras.io/#getting-started-30-seconds-to-keras) -> [Kaggle](https://www.kaggle.com) -> [Tensorflow CS20I](https://www.youtube.com/playlist?list=PLQ0sVbIj3URf94DQtGPJV629ctn2c1zN-&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bq7mMgYx%2FQfW1YjxMmfeunA%3D%3D) -> [CS231n](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bq7mMgYx%2FQfW1YjxMmfeunA%3D%3D) -> [Basic NLP](https://www.youtube.com/playlist?list=PL6397E4B26D00A269&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bq7mMgYx%2FQfW1YjxMmfeunA%3D%3D) -> [CS224d](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bq7mMgYx%2FQfW1YjxMmfeunA%3D%3D) -> [Udacity Course (If interested)](https://in.udacity.com/course/deep-learning-nanodegree-foundation--nd101)
 
-### LSTMs - Long Short Term Memory:
+## LSTMs - Long Short Term Memory:
 #### Theory:
 
 1. [Christopher Olah's Blog](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
@@ -77,35 +77,35 @@ title : Important Links For Machine Learning
 
 ## Natural Language Processing Courses
 
-### Stanford - Basic NLP course on Coursera:
+#### Stanford - Basic NLP course on Coursera:
 
 1. [Videos](https://www.youtube.com/playlist?list=PL6397E4B26D00A269&disable_polymer=true)
 1. [Slides](https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html)
 
 
-### Stanford - CS224n Natural Language Processing with Deep Learning:
+#### Stanford - CS224n Natural Language Processing with Deep Learning:
 
 1. [CS224n Course Page](http://web.stanford.edu/class/cs224n/)
 1. [CS224n Youtube Videos](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 
 
-### CMU - Neural Network for NLP 2017:
+#### CMU - Neural Network for NLP 2017:
 
 1. [Course Page](http://www.phontron.com/class/nn4nlp2017/schedule.html)
 1. [Youtube Link](https://www.youtube.com/playlist?list=PL8PYTP1V4I8ABXzdqtOpB_eqBlVAz_xPT)
 
 
-### University of Oxford and DeepMind - Deep Learning for Natural Language Processing 2016-2017:
+#### University of Oxford and DeepMind - Deep Learning for Natural Language Processing 2016-2017:
 
 1. [Course Page](http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/)
 1. [Github page for video links and slides](https://github.com/oxford-cs-deepnlp-2017/lectures)
 
 
-### Sequence Models by Andrew Ng on Coursera:
+#### Sequence Models by Andrew Ng on Coursera:
 
 1. [Course Page (will start mid dec.)](https://www.coursera.org/learn/nlp-sequence-models)
 
-### Books:
+#### Books:
 
 1. [Stanford : Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)
 1. [Stanford : An Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf)
@@ -114,7 +114,7 @@ title : Important Links For Machine Learning
 
 
 
-### Libraries and Packages:
+#### Libraries and Packages:
 
 1. [NLTK- Natural Language ToolKit](http://www.nltk.org/)
 1. [Stanford coreNLP software written in Java](https://nlp.stanford.edu/software/)
@@ -130,7 +130,7 @@ title : Important Links For Machine Learning
 1 .[Self Driving Cars](https://selfdrivingcars.mit.edu/?lipi=urn%253Ali%253Apage%253Ad_flagship3_pulse_read%253Bq7mMgYx%252FQfW1YjxMmfeunA%253D%253D) [Videos](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bq7mMgYx%2FQfW1YjxMmfeunA%3D%3D)
 
 
-### Bayesian:
+## Bayesian:
 
 
 #### Courses:
@@ -148,7 +148,7 @@ title : Important Links For Machine Learning
 
 ## Time Series:
 
-### Courses:
+#### Courses:
 
 1. [Time Series Forecasting (Udacity):](udacity.com/course/time-series-forecasting--ud980)
 1. [Topics in Mathematics with Applications in Finance (MIT)](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/) + [Youtube](https://www.youtube.com/playlist?list=PLUl4u3cNGP63ctJIEC1UnZ0btsphnnoHR)
