@@ -15,7 +15,7 @@ title : Important Links For Machine Learning
 
 
 ## Stanford Statistical Learning
-1. [Statiscal Learning Stanford](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
+1. [Statistical Learning Stanford](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
 
 
 ## Machine Learning Foundations
