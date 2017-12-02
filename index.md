@@ -32,7 +32,7 @@ title: HomePage
 <br/>
 
 * * *
-[Important Links](http://zeronn.com/links)
+[Important Links](http://zeronn.com/links){:target="_blank"}
 [Test Post](http://zeronn.com/2017/10/21/first-page)
 <br/>
 [My Course Page](http://zeronn.com/courses)
