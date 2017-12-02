@@ -225,9 +225,6 @@ title : Important Links For Machine Learning
 1. [45 Questions to test a data scientist on basics of Deep Learning (along with solution)](https://www.analyticsvidhya.com/blog/2017/01/must-know-questions-deep-learning/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BPvP8o7RfTk6UAybueT4V1A%3D%3D)
 1. [30 Questions to test a data scientist on Natural Language Processing](https://www.analyticsvidhya.com/blog/2017/07/30-questions-test-data-scientist-natural-language-processing-solution-skilltest-nlp/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BPvP8o7RfTk6UAybueT4V1A%3D%3D)
 
-
-Without Solutions:
-
 1. [Over 100 Data Science Interview Questions](http://www.learndatasci.com/data-science-interview-questions/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BPvP8o7RfTk6UAybueT4V1A%3D%3D)
 1. [20 questions to detect fake data scientists](https://www.import.io/post/20-questions-to-detect-fake-data-scientists/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BPvP8o7RfTk6UAybueT4V1A%3D%3D)
 1. [Data Scientist Interview Questions](https://www.glassdoor.com/Interview/data-scientist-interview-questions-SRCH_KO0,14.htm?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BPvP8o7RfTk6UAybueT4V1A%3D%3D)
@@ -237,25 +234,3 @@ Without Solutions:
 
 ## ML CMU
 1. [Link](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
-<!--
-    1111111111
-
-
-
-222222222222
-
-
-33333333333333
-
-
-
-4444444444
-
-
-55555555
-
-
-66666666
--->
-
-Helllooo
