@@ -217,7 +217,7 @@ title : Important Links For Machine Learning
 
 1. [111 Data Science Interview Questions & Detailed Answers](https://rpubs.com/JDAHAN/172473?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BPvP8o7RfTk6UAybueT4V1A%3D%3D)
 
-1. [40 Interview Questions asked at Startups in Machine Learning / Data Science](https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BPvP8o7RfTk6UAybueT4V1A%3D%3D
+1. [40 Interview Questions asked at Startups in Machine Learning / Data Science](https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BPvP8o7RfTk6UAybueT4V1A%3D%3D)
 
 1. [100 Data Science Interview Questions and Answers (General) for 2017](https://www.dezyre.com/article/100-data-science-interview-questions-and-answers-general-for-2017/184?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BPvP8o7RfTk6UAybueT4V1A%3D%3D)
 
