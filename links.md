@@ -4,7 +4,7 @@ title : Important Links For Machine Learning
 ---
 ## Videos:
 
-Coursera Stanford by Andrew Ng:
+### Coursera Stanford by Andrew Ng:
 1. [Coursera](https://www.coursera.org/learn/machine-learning)
 1. [YouTube ](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 
