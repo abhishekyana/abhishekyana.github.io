@@ -67,93 +67,93 @@ Coursera Stanford by Andrew Ng:
 ### LSTMs - Long Short Term Memory:
 #### Theory:
 
-[Christopher Olah's Blog](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+1. [Christopher Olah's Blog](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
-[Brandon Rohrer's Video](https://www.youtube.com/watch?v=WCUNPb-5EYI)
+1. [Brandon Rohrer's Video](https://www.youtube.com/watch?v=WCUNPb-5EYI)
 
-[The Deep Learning Book RNN chapter 10](http://www.deeplearningbook.org/contents/rnn.html)
+1. [The Deep Learning Book RNN chapter 10](http://www.deeplearningbook.org/contents/rnn.html)
 
-[Sequence Modeling: Recurrent and Recursive Nets presented by Ian Goodfellow](https://www.youtube.com/watch?v=ZVN14xYm7JA)
+1. [Sequence Modeling: Recurrent and Recursive Nets presented by Ian Goodfellow](https://www.youtube.com/watch?v=ZVN14xYm7JA)
 
-[Vanilla LSTM with Numpy](http://blog.varunajayasiri.com/numpy_lstm.html)
+1. [Vanilla LSTM with Numpy](http://blog.varunajayasiri.com/numpy_lstm.html)
 
-[Hinton's lecture from Neural Netwroks for Machine Learning](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
+1. [Hinton's lecture from Neural Netwroks for Machine Learning](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
 
 #### Applications:
-[Gist by Andrej Karpathy](https://gist.github.com/karpathy/d4dee566867f8291f086)
+1. [Gist by Andrej Karpathy](https://gist.github.com/karpathy/d4dee566867f8291f086)
 
-[Sequence Classification with LSTM with Keras](https://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/)
+1. [Sequence Classification with LSTM with Keras](https://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/)
 
-[Text Generation With LSTM with Keras](https://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/)
+1. [Text Generation With LSTM with Keras](https://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/)
 
-[Time Series Prediction with LSTM with Keras](https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
+1. [Time Series Prediction with LSTM with Keras](https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
 
-[More Keras examples](https://github.com/fchollet/keras/tree/master/examples)
+1. [More Keras examples](https://github.com/fchollet/keras/tree/master/examples)
 
 ## Natural Language Processing Courses
 
 ### Stanford - Basic NLP course on Coursera:
 
-[Videos](https://www.youtube.com/playlist?list=PL6397E4B26D00A269&disable_polymer=true)
-[Slides](https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html)
+1. [Videos](https://www.youtube.com/playlist?list=PL6397E4B26D00A269&disable_polymer=true)
+1. [Slides](https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html)
 
 
 ### Stanford - CS224n Natural Language Processing with Deep Learning:
 
-[Course Page](http://web.stanford.edu/class/cs224n/)
+1. [CS224n Course Page](http://web.stanford.edu/class/cs224n/)
 
-[Videos](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
+1. [Videos](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 
 
 ### CMU - Neural Network for NLP 2017:
 
-[Course Page](http://www.phontron.com/class/nn4nlp2017/schedule.html)
-[Youtube Link](https://www.youtube.com/playlist?list=PL8PYTP1V4I8ABXzdqtOpB_eqBlVAz_xPT)
+1. [Course Page](http://www.phontron.com/class/nn4nlp2017/schedule.html)
+1. [Youtube Link](https://www.youtube.com/playlist?list=PL8PYTP1V4I8ABXzdqtOpB_eqBlVAz_xPT)
 
 
 ### University of Oxford and DeepMind - Deep Learning for Natural Language Processing 2016-2017:
 
-[Course Page](http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/)
+1. [Course Page](http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/)
 
-[Github page for video links and slides](https://github.com/oxford-cs-deepnlp-2017/lectures)
+1. [Github page for video links and slides](https://github.com/oxford-cs-deepnlp-2017/lectures)
 
 
 ### Sequence Models by Andrew Ng on Coursera:
 
-[Course Page (will start mid dec.)](https://www.coursera.org/learn/nlp-sequence-models)
+1. [Course Page (will start mid dec.)](https://www.coursera.org/learn/nlp-sequence-models)
 
 
 
 ### Books:
 
-[Stanford : Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)
+1. [Stanford : Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)
 
-[Stanford : An Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf)
+1. [Stanford : An Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf)
 
-[The Deep Learning Book](www.deeplearningbook.org)
+1. [The Deep Learning Book](www.deeplearningbook.org)
 
-[A Primer on Neural Network Models for Natural Language Processing: Draft](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
+1. [A Primer on Neural Network Models for Natural Language Processing: Draft](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 
 
 
 ### Libraries and Packages:
 
-[NLTK- Natural Language ToolKit](http://www.nltk.org/)
+1. [NLTK- Natural Language ToolKit](http://www.nltk.org/)
 
-[Stanford coreNLP software written in Java](https://nlp.stanford.edu/software/)
+1. [Stanford coreNLP software written in Java](https://nlp.stanford.edu/software/)
 
-[Gensim](https://radimrehurek.com/gensim/)
+1. [Gensim](https://radimrehurek.com/gensim/)
 
-[Textblob Text processor](https://textblob.readthedocs.io/en/dev/)
+1. [Textblob Text processor](https://textblob.readthedocs.io/en/dev/)
 
-[spaCy NLP](https://spacy.io)
+1. [spaCy NLP](https://spacy.io)
 
 
-
-[Very Usefull Links for Computer Science](https://github.com/Developer-Y/cs-video-courses/blob/master/README.md#machine-learning)
+#### Others
+1. [Very Usefull Links for Computer Science](https://github.com/Developer-Y/cs-video-courses/blob/master/README.md#machine-learning)
 
 ### Applications
-[Self Driving Cars](https://selfdrivingcars.mit.edu/?lipi=urn%253Ali%253Apage%253Ad_flagship3_pulse_read%253Bq7mMgYx%252FQfW1YjxMmfeunA%253D%253D) [Videos](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bq7mMgYx%2FQfW1YjxMmfeunA%3D%3D)
+1 .[Self Driving Cars](https://selfdrivingcars.mit.edu/?lipi=urn%253Ali%253Apage%253Ad_flagship3_pulse_read%253Bq7mMgYx%252FQfW1YjxMmfeunA%253D%253D) [Videos](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bq7mMgYx%2FQfW1YjxMmfeunA%3D%3D)
 
 <!--
     1111111111
