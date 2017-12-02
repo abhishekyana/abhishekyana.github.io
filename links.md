@@ -1,33 +1,34 @@
 ---
 layout : post
 title : Important Links For Machine Learning
+:target='_blank'
 ---
 ## Videos:
 
 ### Coursera Stanford by Andrew Ng:
-1. [Coursera](https://www.coursera.org/learn/machine-learning)
-1. [YouTube ](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+1. [Machine Learning Coursera Course](https://www.coursera.org/learn/machine-learning)
+1. [Machine Learning YouTube Playlist](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 
 ### Stanford 229:
 
-1. [Youtube](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
-1. [Stanford](http://cs229.stanford.edu/syllabus.html)
+1. [CS229 Course Youtube Playlist](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
+1. [CS229 Stanford Course Page](http://cs229.stanford.edu/syllabus.html)
 
 
 ### Stanford Statistical Learning
 
-1. [Stanford](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
+1. [Statiscal Learning Stanford](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
 
 
 ### Machine Learning Foundations
 
-1. [Coursera](https://www.coursera.org/learn/ntumlone-mathematicalfoundations)
-1.  [Youtube](https://www.youtube.com/playlist?list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf&disable_polymer=true)
+1. [A friendly Introduction to Machine Learning](https://www.youtube.com/watch?v=IpGxLWOIZy4&t=322s)
+1. [Intro to Machine Learning Udacity](https://www.youtube.com/watch?v=ICKBWIkfeJ8&list=PLAwxTw4SYaPkQXg8TkVdIvYv4HfLG7SiH)
 
 
 ### Machine Learning Techniques:
 
-1. [Youtube](https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2&disable_polymer=true)
+1. [Choosing the right ML algo](https://www.youtube.com/watch?v=x996pw1geGw)
 1. [CMU 701 by Tom Mitchell](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
 
 
@@ -102,7 +103,7 @@ title : Important Links For Machine Learning
 
 1. [CS224n Course Page](http://web.stanford.edu/class/cs224n/)
 
-1. [Videos](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
+1. [CS224n Youtube Videos](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 
 
 ### CMU - Neural Network for NLP 2017:
@@ -155,103 +156,106 @@ title : Important Links For Machine Learning
 ### Applications
 1 .[Self Driving Cars](https://selfdrivingcars.mit.edu/?lipi=urn%253Ali%253Apage%253Ad_flagship3_pulse_read%253Bq7mMgYx%252FQfW1YjxMmfeunA%253D%253D) [Videos](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bq7mMgYx%2FQfW1YjxMmfeunA%3D%3D)
 
-<!--
-    1111111111
-Bayesian:
 
-I saw a DS interview question on Glassdoor (Do you think yourself more as a frequentist or Bayesian?), which motivated me to learn something about Bayesian statistics. Collected these materials today.
-
-** Courses:
-
-Bayesian Statistics: From Concept to Data Analysis: https://www.coursera.org/learn/bayesian-statistics
-
-Bayesian Methods for Machine Learning: https://www.coursera.org/learn/bayesian-methods-in-machine-learning
-
-Statistical Rethinking: http://xcelab.net/rm/statistical-rethinking/ (Recorded Lectures: Winter 2015, Fall 2017)
-
-** Book:
-
-Bayesian Data Analysis, Third Edition
-
-Applied Predictive Modeling
-
-** Other:
-
-https://github.com/thsavage/Applied-Data-Science
+### Bayesian:
 
 
-222222222222
-Time series:
+#### Courses:
 
-(I should change the name to be DS. Anyway, this will be the last topic I will review recently. Will mainly focus on Leetcode afterward)
+1. [Bayesian Statistics: From Concept to Data Analysis ](https://www.coursera.org/learn/bayesian-statistics)
+
+1. [Bayesian Methods for Machine Learning ](https://www.coursera.org/learn/bayesian-methods-in-machine-learning)
+
+1. [Statistical Rethinking (Recorded Lectures: Winter 2015, Fall 2017)](http://xcelab.net/rm/statistical-rethinking/)
+
+#### Book:
+
+1. [Bayesian Data Analysis, Third Edition](https://www.math.muni.cz/~kolacek/docs/bayesian_data_analysis.pdf)
+
+1. [Applied Predictive Modeling slides](https://static1.squarespace.com/static/51156277e4b0b8b2ffe11c00/t/56a1150d4bf11845241980ee/1453397275772/CIRUG.pdf)
+
+1. [Applied Data Science](https://github.com/thsavage/Applied-Data-Science)
 
 
+## Time Series:
 
-** Courses:
+### Courses:
 
-Time Series Forecasting (Udacity): udacity.com/course/time-series-forecasting--ud980
+1. [Time Series Forecasting (Udacity):](udacity.com/course/time-series-forecasting--ud980)
 
-Topics in Mathematics with Applications in Finance (MIT):
-
-https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/
-
-https://www.youtube.com/playlist?list=PLUl4u3cNGP63ctJIEC1UnZ0btsphnnoHR
+1. [Topics in Mathematics with Applications in Finance (MIT)](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/) + [Youtube](https://www.youtube.com/playlist?list=PLUl4u3cNGP63ctJIEC1UnZ0btsphnnoHR)
 
 
 
-** Books:
+#### Books:
 
-Time Series Analysis and Its Applications: http://www.springer.com/us/book/9783319524511
+1. [Time Series Analysis and Its Applications:] (http://db.ucsd.edu/static/TimeSeries.pdf)
 
+#### With LSTM:
 
+1. [Time Series Prediction LSTM RNN Keras](https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
 
-** With LSTM:
+1. [Multivariate Time Series Forecast LSTM Keras](https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/)
 
-https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
-
-https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/
-
-More: https://machinelearningmastery.com/?s=Time+Series&submit=Search
+1. [More from Machinelearningmastery.com](https://machinelearningmastery.com/?s=Time+Series&submit=Search)
 
 
 
-** Competitions:
+#### Competitions:
 
-https://www.kaggle.com/c/web-traffic-time-series-forecasting
+1. [Kaggle: Web Traffic Time Series Forecasting](https://www.kaggle.com/c/web-traffic-time-series-forecasting)
 
-https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting
+1. [Kaggle: Recruit Restaurant Visitor Forecasting ](https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting)
 
-https://www.m4.unic.ac.cy/
+1. [M4 Competition](https://www.m4.unic.ac.cy/)
+1. [Tensorflow Speech Recognition Challenge](https://www.kaggle.com/c/tensorflow-speech-recognition-challenge)
 
-33333333333333
 
-Lists with Solutions:
+## Interview Questions:
 
-111 Data Science Interview Questions & Detailed Answers: https://rpubs.com/JDAHAN/172473?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BPvP8o7RfTk6UAybueT4V1A%3D%3D
+#### Lists with Solutions:
 
-40 Interview Questions asked at Startups in Machine Learning / Data Science  https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BPvP8o7RfTk6UAybueT4V1A%3D%3D
+1. [111 Data Science Interview Questions & Detailed Answers](https://rpubs.com/JDAHAN/172473?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BPvP8o7RfTk6UAybueT4V1A%3D%3D)
 
-100 Data Science Interview Questions and Answers (General) for 2017 https://www.dezyre.com/article/100-data-science-interview-questions-and-answers-general-for-2017/184?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BPvP8o7RfTk6UAybueT4V1A%3D%3D
-21 Must-Know Data Science Interview Questions and Answers http://www.kdnuggets.com/2016/02/21-data-science-interview-questions-answers.html?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BPvP8o7RfTk6UAybueT4V1A%3D%3D
-45 Questions to test a data scientist on basics of Deep Learning (along with solution) https://www.analyticsvidhya.com/blog/2017/01/must-know-questions-deep-learning/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BPvP8o7RfTk6UAybueT4V1A%3D%3D
-30 Questions to test a data scientist on Natural Language Processing https://www.analyticsvidhya.com/blog/2017/07/30-questions-test-data-scientist-natural-language-processing-solution-skilltest-nlp/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BPvP8o7RfTk6UAybueT4V1A%3D%3D
+1. [40 Interview Questions asked at Startups in Machine Learning / Data Science](https://www.analyticsvidhya.com/blog/2016/)09/40-interview-questions-asked-at-startups-in-machine-learning-data-science/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BPvP8o7RfTk6UAybueT4V1A%3D%3D
+
+1. [100 Data Science Interview Questions and Answers (General) for 2017](https://www.dezyre.com/article/100-data-science-interview-questions-and-answers-general-for-2017/184?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BPvP8o7RfTk6UAybueT4V1A%3D%3D)
+
+1. [21 Must-Know Data Science Interview Questions and Answers](http://www.kdnuggets.com/2016/02/21-data-science-interview-questions-answers.html?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BPvP8o7RfTk6UAybueT4V1A%3D%3D)
+1. [45 Questions to test a data scientist on basics of Deep Learning (along with solution)](https://www.analyticsvidhya.com/blog/2017/01/must-know-questions-deep-learning/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BPvP8o7RfTk6UAybueT4V1A%3D%3D)
+1. [30 Questions to test a data scientist on Natural Language Processing](https://www.analyticsvidhya.com/blog/2017/07/30-questions-test-data-scientist-natural-language-processing-solution-skilltest-nlp/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BPvP8o7RfTk6UAybueT4V1A%3D%3D)
 
 
 Without Solutions:
 
-Over 100 Data Science Interview Questions http://www.learndatasci.com/data-science-interview-questions/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BPvP8o7RfTk6UAybueT4V1A%3D%3D
-20 questions to detect fake data scientists https://www.import.io/post/20-questions-to-detect-fake-data-scientists/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BPvP8o7RfTk6UAybueT4V1A%3D%3D
+1. [Over 100 Data Science Interview Questions](http://www.learndatasci.com/data-science-interview-questions/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BPvP8o7RfTk6UAybueT4V1A%3D%3D)
+1. [20 questions to detect fake data scientists](https://www.import.io/post/20-questions-to-detect-fake-data-scientists/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BPvP8o7RfTk6UAybueT4V1A%3D%3D)
+1. [Data Scientist Interview Questions](https://www.glassdoor.com/Interview/data-scientist-interview-questions-SRCH_KO0,14.htm?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BPvP8o7RfTk6UAybueT4V1A%3D%3D)
 
-https://www.glassdoor.com/Interview/data-scientist-interview-questions-SRCH_KO0,14.htm?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BPvP8o7RfTk6UAybueT4V1A%3D%3D
+## LeetCode
+1. [Leetcode](https://leetcode.com/problemset/all/)
+
+## ML CMU
+1. [Link](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
+<!--
+    1111111111
+
+
+
+222222222222
+
+
+33333333333333
+
+
 
 4444444444
-https://leetcode.com/problemset/all/
+
 
 55555555
-http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml
+
 
 66666666
-https://www.kaggle.com/c/tensorflow-speech-recognition-challenge
 -->
 
 Helllooo
