@@ -73,7 +73,7 @@ title : Important Links For Machine Learning
 
 #### Stanford - CS224n Natural Language Processing with Deep Learning:
 1. [CS224n Course Page](http://web.stanford.edu/class/cs224n/)
-1. [CS224n Youtube Videos](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
+1. [CS224n Youtube Videos](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 
 #### CMU - Neural Network for NLP 2017:
 1. [Course Page](http://www.phontron.com/class/nn4nlp2017/schedule.html)
