@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: portfolio
 title: "Abhishek's Portfolio"
 description: My Portfolio
 ---
