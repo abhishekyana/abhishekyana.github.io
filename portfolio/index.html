@@ -48,13 +48,13 @@
     <li><p><b>Inspiration for this Project:</b></p></li>
     <p>One day, I misplaced my bike keys and had to wait for 1hr to get a duplicate key to again get back home, then I thought of a solution that could enable us to have a key that we'll never misplace, then after getting a bit of inspiration from Apple's TouchID, I decided upon using my fingerprint as the key to unlock the bike.</p>
     <li><p><b>Working:</b></p></li>
-    <ol>
+    <ul>
         <li>Fingerprint scanner that reads the user's fingerprint and unlocks the vehicle if the user is registered else, it'll capture the bitmap of the user if he/she tries to tamper the system, that'll help is getting the details of the person.</li>
         <li>A Biometric authentication system for the bike where a user can use his finger as a key to start the bike.</li>
         <li>When a registered user puts his finger, the fingerprint sensor verifies the saved IDs and the microcontroller unlocks the handle and gives ignition to the bike.</li>
         <li>This system also features an offline server where a user can lend the bike to an unregistered user using a password generated with the time seed.</li>
         <li>It can also monitor the bikes health and can warn the user if there is any malfunction in the bike.</li>
-    </ol>
+    </ul>
     </ol>
 
 <br>
@@ -66,14 +66,14 @@
     <li><p><b>Inspiration for this Project:</b></p></li>
     <p>Though I have projects that anybody can view, contribute and use. Some projects I have are really private for me. I have a friend who regularly challenges me by modifying some of my private projects. Though I’ve a password for my MacBook, Hiding that big thing and typing the password was cumbersome. Funnily enough, we were like GANs(kind of), I used to change the password regularly using different patterns and methods, He used to spy and open them. Then after thinking, I’ve implemented this FaceID Decrypter for certain specified files. This enabled me to protect my private projects, without having to fear about being teased. Because, my face is my password.</p>
     <li><p><b>Working:</b></p></li>
-    <ol>
+    <ul>
         <li>When any person tries to open my private projects, the python program will first capture the image from the FaceTime Camera.</li>
         <li>Applies HOGs (Histogram of Oriented Gradients) on the captured image to detect the bounding boxes of the face.</li>
         <li>The detected face is given to a CNN (Inspired by Google’s Facenet) where it outputs a 128 dimension feature vector of the face.</li>
         <li>The vector is then compared with the pre-stored face vectors using the cosine distance for similarity.</li>
         <li>If the image passes through the threshold (85%) then private files which are previously encrypted using Openssl aes-256 encryption are now decrypted.</li>
         <li>If the face in the image is not similar to pre-stored vectors then the program will send the image containing the face to my mail as an alert.</li>
-    </ol>
+    </ul>
     </ol>
 
 <br>
@@ -82,11 +82,11 @@
 <div align="center" id='youtube_video'><iframe width="560" height="315" src="https://www.youtube.com/embed/gInu9hurzfw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
     <ol>
     <li><p><b>Working:</b></p></li>
-    <ol>
+    <ul>
         <li>The python script converts the speech into text using cloud API.</li>
         <li>Then the text is analysed and converted into appropriate tasks for the hand to perform like open and close. </li>
         <li>Then the data is written onto the serial port of Arduino, then arduino will control the servos’ position depending upon the data received. </li>
-    </ol>
+    </ul>
     </ol>
 
 
